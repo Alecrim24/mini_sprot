@@ -1,0 +1,3 @@
+# this can be done on the command line
+
+makeblastdb -in /nobackup/qkdf72/Trinity/mini_sprot.pep -dbtype prot
